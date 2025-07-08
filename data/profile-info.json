@@ -1,6 +1,6 @@
 {
   "name": "ZHANG Jingming",
-  "subtitle": "M.eng.@UCAS &nbsp;&nbsp;  B.Eng.@HHU<br><a href=\"#\">Center for AI and Smart Systems</a><br><a href=\"#\">Autonomous Systems and Connected Technologies Lab (ASCT)</a>",
+  "subtitle": "M.eng.@University of Chinese Academy of Sciences \& Institute of Acoustics, Chinese Academy of Sciences &nbsp;&nbsp;  B.Eng.@Hohai University,
   "socialLinks": [
     {
       "type": "email",
@@ -10,7 +10,7 @@
     {
       "type": "email",
       "url": "mailto:zhangjingming22@mails.ucas.ac.cn",
-      "icon": "<i class=\"fas fa-envelope\"></i>"
+      "icon": "<i class=\"far fa-envelope\"></i>"
     },
     {
       "type": "linkedin",
